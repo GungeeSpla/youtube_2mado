@@ -13,7 +13,7 @@ YouTube専用2窓実況支援ツール
 
 ## ライセンス
 
-[MIT](https://github.com/GungeeSpla/effect_generator/blob/master/LICENSE)
+[MIT](https://github.com/GungeeSpla/youtube_2mado/blob/master/LICENSE)
 
 ## 作者
 
